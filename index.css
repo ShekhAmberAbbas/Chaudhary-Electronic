@@ -1,0 +1,53 @@
+
+.my-sec {
+    /* font-size: 3rem; */
+   background-image: url('../pics/hero_2.jpg');
+    height: 100%;
+    width: 100%;
+    background-size:cover  ;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+
+
+}
+nav{
+    background-color: black;
+    color: white;
+}
+
+.my-sec-inner {
+ transition: all .5s;
+   
+     }
+.my-sec-inner
+ {
+ 
+    background-color: rgba(255, 60, 0, 0.493);
+    background-size:100%;
+    /* opacity: .2; */
+}
+
+
+
+.a
+{
+    text-align: center;
+}
+.card
+{
+    float: left;
+    margin-right: 34px;
+    margin-top: 10px;
+}
+.f
+{
+    font-size: 40px;
+}
+h5
+{
+    font-size: 50px;
+}
+h6
+{
+    font-size: 50px;
+}
